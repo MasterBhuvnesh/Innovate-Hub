@@ -18,7 +18,7 @@ def get_platforms():
     return jsonify(platforms)
 
 @app.route('/categories', methods=['GET'])
-def get_platforms():
+def get_categories():
     return jsonify(categories)
 
 if __name__ == "__main__":
