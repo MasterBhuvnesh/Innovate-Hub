@@ -26,10 +26,17 @@
         background-color: #f4f4f9;
         padding: 20px;
       }
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+      }
       .title {
         font-size: 2rem;
         font-weight: 900;
         color: #000000;
+        margin: 0;
       }
       .platform-card {
         background: white;
@@ -74,14 +81,82 @@
         font-size: 0.75rem;
         color: #000000;
       }
+      .category-filter {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 20px;
+        display: none;
+      }
+      .category-filter.visible {
+        display: flex;
+      }
+      .category-button {
+        background-color: #f8f9fa;
+        border: 2px solid #ddd;
+        padding: 8px 16px;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: background-color 0.3s, border-color 0.3s;
+      }
+      .category-button.selected {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: white;
+      }
+      .hidden {
+        display: none;
+      }
+      .toggle-filter-button {
+        background-color: transparent;
+        color: #007bff;
+        border: 2px solid #007bff;
+        padding: 8px 16px;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: background-color 0.3s, color 0.3s;
+      }
+      .toggle-filter-button:hover {
+        background-color: #007bff;
+        color: white;
+      }
     </style>
   </head>
   <body>
     <div class="container">
-      <h1 class="text-center mb-4 title">{{ title }}</h1>
-      <div class="row">
+      <div class="header">
+        <h1 class="title">{{ title }}</h1>
+        <button
+          class="toggle-filter-button"
+          onclick="toggleCategoryFilter()"
+        >
+          Filter
+        </button>
+      </div>
+
+      <div
+        class="category-filter"
+        id="category-filter"
+      >
+        {% for category in categories %}
+        <div
+          class="category-button"
+          onclick="toggleCategory(this, '{{ category }}')"
+        >
+          {{ category }}
+        </div>
+        {% endfor %}
+      </div>
+
+      <div
+        class="row"
+        id="platforms-container"
+      >
         {% for platform in platforms %}
-        <div class="col-md-4 mb-4">
+        <div
+          class="col-md-4 mb-4 platform-item"
+          data-categories="{{ platform.categories | join(',') }}"
+        >
           <div class="platform-card">
             <h5>{{ platform.name }}</h5>
             <p>{{ platform.description }}</p>
@@ -95,6 +170,54 @@
         {% endfor %}
       </div>
     </div>
+
+    <script>
+      let selectedCategories = [];
+
+      function toggleCategoryFilter() {
+        const categoryFilter = document.getElementById("category-filter");
+        const toggleButton = document.querySelector(".toggle-filter-button");
+
+        if (categoryFilter.classList.contains("visible")) {
+          categoryFilter.classList.remove("visible");
+        } else {
+          categoryFilter.classList.add("visible");
+        }
+      }
+
+      function toggleCategory(button, category) {
+        if (selectedCategories.includes(category)) {
+          selectedCategories = selectedCategories.filter(
+            (cat) => cat !== category
+          );
+          button.classList.remove("selected");
+        } else {
+          selectedCategories.push(category);
+          button.classList.add("selected");
+        }
+
+        filterPlatforms();
+      }
+
+      function filterPlatforms() {
+        const platformItems = document.querySelectorAll(".platform-item");
+
+        platformItems.forEach((item) => {
+          const platformCategories = item
+            .getAttribute("data-categories")
+            .split(",");
+
+          if (
+            selectedCategories.length === 0 ||
+            platformCategories.some((cat) => selectedCategories.includes(cat))
+          ) {
+            item.classList.remove("hidden");
+          } else {
+            item.classList.add("hidden");
+          }
+        });
+      }
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
