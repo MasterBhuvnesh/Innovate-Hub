@@ -1,0 +1,1097 @@
+[
+  {
+    "name": "Spotify",
+    "description": "Stream your favorite music and podcasts anytime, anywhere.",
+    "categories": ["🎵 Music", "🎙️ Podcasts", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Netflix",
+    "description": "Watch award-winning TV shows, movies, and documentaries.",
+    "categories": ["🎥 Entertainment", "📺 Streaming", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Airbnb",
+    "description": "Book unique homes and experiences around the world.",
+    "categories": ["✈️ Travel", "🏠 Lifestyle", "🌍 Adventure"]
+  },
+  {
+    "name": "Tesla",
+    "description": "Driving the future of electric vehicles and sustainable energy.",
+    "categories": ["🚗 Vehicles", "🤖 Tech", "🌱 Sustainability"]
+  },
+  {
+    "name": "Amazon",
+    "description": "Shop millions of products with fast delivery and great deals.",
+    "categories": ["🛒 Commerce", "📦 Delivery", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Google",
+    "description": "Search the world's information, from the web to images and more.",
+    "categories": ["🔍 Search", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Instagram",
+    "description": "Share photos and videos with friends and followers.",
+    "categories": ["📸 Social Media", "👥 Social", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Uber",
+    "description": "Get a ride or order food with just a few taps.",
+    "categories": ["🚗 Ride Sharing", "🍔 Food Delivery", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Microsoft",
+    "description": "Empowering individuals and organizations to achieve more.",
+    "categories": ["💻 Software", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Expo",
+    "description": "Build universal native apps with React and JavaScript.",
+    "categories": ["📱 Mobile", "⚛️ React", "🤖 Tech"]
+  },
+  {
+    "name": "React",
+    "description": "A JavaScript library for building user interfaces.",
+    "categories": ["⚛️ React", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Next.js",
+    "description": "The React framework for production-grade applications.",
+    "categories": ["⚛️ React", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Firebase",
+    "description": "Build and scale apps with Google's backend platform.",
+    "categories": ["🔥 Firebase", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Supabase",
+    "description": "An open-source Firebase alternative with PostgreSQL.",
+    "categories": ["🔥 Firebase", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "MongoDB",
+    "description": "A NoSQL database for modern applications.",
+    "categories": ["🗄️ Database", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "TypeScript",
+    "description": "JavaScript with syntax for types.",
+    "categories": ["🟦 TypeScript", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "JavaScript",
+    "description": "The programming language of the web.",
+    "categories": ["🟨 JavaScript", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Python",
+    "description": "A versatile programming language for all purposes.",
+    "categories": ["🐍 Python", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Node.js",
+    "description": "A JavaScript runtime for building server-side applications.",
+    "categories": ["🟩 Node.js", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Docker",
+    "description": "Containerize and ship applications with ease.",
+    "categories": ["🐳 Docker", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Kubernetes",
+    "description": "Automate deployment, scaling, and management of containerized apps.",
+    "categories": ["☸️ Kubernetes", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "GitHub",
+    "description": "The world's leading platform for version control and collaboration.",
+    "categories": ["🐙 GitHub", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Figma",
+    "description": "Design, prototype, and collaborate in one place.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Slack",
+    "description": "Collaborate with your team in real-time.",
+    "categories": ["💬 Communication", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, tasks, and collaboration.",
+    "categories": ["📝 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Zoom",
+    "description": "Video conferencing and webinars made easy.",
+    "categories": ["📹 Video Calls", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Trello",
+    "description": "Organize tasks and projects with boards and cards.",
+    "categories": ["📋 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Asana",
+    "description": "Manage team projects and workflows efficiently.",
+    "categories": ["📋 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Dropbox",
+    "description": "Store and share files securely in the cloud.",
+    "categories": ["☁️ Cloud Storage", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Google Drive",
+    "description": "Store, share, and collaborate on files in the cloud.",
+    "categories": ["☁️ Cloud Storage", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "description": "Access industry-leading creative tools for design and editing.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Canva",
+    "description": "Create stunning designs with ease.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "WordPress",
+    "description": "Build and manage websites with the world's most popular CMS.",
+    "categories": ["🌐 Web", "🤖 Tech", "📝 Content"]
+  },
+  {
+    "name": "Shopify",
+    "description": "Create and manage your online store with ease.",
+    "categories": ["🛒 E-commerce", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "WooCommerce",
+    "description": "Turn your WordPress site into an online store.",
+    "categories": ["🛒 E-commerce", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "LinkedIn",
+    "description": "Connect with professionals and grow your career.",
+    "categories": ["👥 Social", "🏢 Org", "💼 Careers"]
+  },
+  {
+    "name": "Twitter",
+    "description": "Stay updated with the latest news and trends.",
+    "categories": ["📰 News", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "Facebook",
+    "description": "Connect with friends and family around the world.",
+    "categories": ["👥 Social", "🌐 Web", "🏠 Lifestyle"]
+  },
+  {
+    "name": "YouTube",
+    "description": "Watch, share, and upload videos on the world's largest video platform.",
+    "categories": ["🎥 Video", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "Twitch",
+    "description": "Watch and stream live gaming and creative content.",
+    "categories": ["🎮 Gaming", "🎥 Streaming", "👥 Social"]
+  },
+  {
+    "name": "Discord",
+    "description": "Chat, voice, and video with your communities.",
+    "categories": ["💬 Communication", "👥 Social", "🎮 Gaming"]
+  },
+  {
+    "name": "Reddit",
+    "description": "Join communities and discuss your interests.",
+    "categories": ["👥 Social", "🌐 Web", "📰 News"]
+  },
+  {
+    "name": "Pinterest",
+    "description": "Discover and save creative ideas.",
+    "categories": ["🎨 Design", "👥 Social", "🏠 Lifestyle"]
+  },
+  {
+    "name": "TikTok",
+    "description": "Create and share short-form videos.",
+    "categories": ["🎥 Video", "👥 Social", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Snapchat",
+    "description": "Share moments with friends using photos and videos.",
+    "categories": ["📸 Social Media", "👥 Social", "🏠 Lifestyle"]
+  },
+  {
+    "name": "WhatsApp",
+    "description": "Message and call friends and family for free.",
+    "categories": ["💬 Communication", "👥 Social", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Telegram",
+    "description": "Secure messaging and file sharing.",
+    "categories": ["💬 Communication", "👥 Social", "🔒 Privacy"]
+  },
+  {
+    "name": "Signal",
+    "description": "Private messaging and calls with end-to-end encryption.",
+    "categories": ["💬 Communication", "👥 Social", "🔒 Privacy"]
+  },
+  {
+    "name": "Evernote",
+    "description": "Take notes, organize tasks, and save ideas.",
+    "categories": ["📝 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "OneNote",
+    "description": "Capture and organize your notes in one place.",
+    "categories": ["📝 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Google Workspace",
+    "description": "Collaborate with Gmail, Docs, Sheets, and more.",
+    "categories": ["📝 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Microsoft Office",
+    "description": "Create, edit, and share documents with Word, Excel, and PowerPoint.",
+    "categories": ["📝 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Jira",
+    "description": "Plan, track, and manage software projects.",
+    "categories": ["📋 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Confluence",
+    "description": "Collaborate on documents and knowledge sharing.",
+    "categories": ["📋 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Zapier",
+    "description": "Automate workflows between apps and services.",
+    "categories": ["🤖 Automation", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Airtable",
+    "description": "Organize and collaborate on data with a flexible spreadsheet-database hybrid.",
+    "categories": ["🗄️ Database", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "VSCode",
+    "description": "A powerful code editor for developers.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Sublime Text",
+    "description": "A sophisticated text editor for code, markup, and prose.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Atom",
+    "description": "A hackable text editor for the 21st century.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Postman",
+    "description": "Collaborate on API development and testing.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Sketch",
+    "description": "A design toolkit for creating digital products.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "InVision",
+    "description": "Prototype, collaborate, and manage design workflows.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Adobe XD",
+    "description": "Design and prototype user experiences for web and mobile.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Blender",
+    "description": "A free and open-source 3D creation suite.",
+    "categories": ["🎨 Design", "🤖 Tech", "🎥 Animation"]
+  },
+  {
+    "name": "Unity",
+    "description": "Create 2D and 3D games and interactive experiences.",
+    "categories": ["🎮 Gaming", "🤖 Tech", "🎥 Animation"]
+  },
+  {
+    "name": "Unreal Engine",
+    "description": "A powerful real-time 3D creation tool.",
+    "categories": ["🎮 Gaming", "🤖 Tech", "🎥 Animation"]
+  },
+  {
+    "name": "Steam",
+    "description": "The ultimate destination for PC gaming.",
+    "categories": ["🎮 Gaming", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "Epic Games",
+    "description": "Developers of Fortnite and Unreal Engine.",
+    "categories": ["🎮 Gaming", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Roblox",
+    "description": "A platform for creating and playing games.",
+    "categories": ["🎮 Gaming", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "Minecraft",
+    "description": "A sandbox game where you can build and explore.",
+    "categories": ["🎮 Gaming", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "PlayStation",
+    "description": "The home of gaming on PlayStation consoles.",
+    "categories": ["🎮 Gaming", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Xbox",
+    "description": "The home of gaming on Xbox consoles.",
+    "categories": ["🎮 Gaming", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Nintendo",
+    "description": "The home of gaming on Nintendo consoles.",
+    "categories": ["🎮 Gaming", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Apple Music",
+    "description": "Stream millions of songs and curated playlists.",
+    "categories": ["🎵 Music", "🎙️ Podcasts", "🏠 Lifestyle"]
+  },
+  {
+    "name": "SoundCloud",
+    "description": "Discover and share music from emerging artists.",
+    "categories": ["🎵 Music", "🎙️ Podcasts", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Bandcamp",
+    "description": "Support independent artists and buy music directly.",
+    "categories": ["🎵 Music", "🎙️ Podcasts", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Audible",
+    "description": "Listen to audiobooks and podcasts on the go.",
+    "categories": ["🎙️ Podcasts", "📚 Books", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Kindle",
+    "description": "Read eBooks on Amazon's Kindle devices.",
+    "categories": ["📚 Books", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Goodreads",
+    "description": "Discover and share books with a community of readers.",
+    "categories": ["📚 Books", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "Duolingo",
+    "description": "Learn a new language for free with fun lessons.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Coursera",
+    "description": "Take online courses from top universities and companies.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Udemy",
+    "description": "Learn new skills with online courses.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Khan Academy",
+    "description": "Free online courses for students of all ages.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "TED",
+    "description": "Watch inspiring talks from experts in various fields.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Medium",
+    "description": "Read and write articles on a wide range of topics.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Quora",
+    "description": "Ask questions and get answers from the community.",
+    "categories": ["📚 Education", "👥 Social", "🌐 Web"]
+  },
+  {
+    "name": "Stack Overflow",
+    "description": "Get answers to programming questions from the community.",
+    "categories": ["📚 Education", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Replit",
+    "description": "An online IDE for coding and collaboration.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "CodeSandbox",
+    "description": "An instant online IDE for web development.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Glitch",
+    "description": "A community-driven platform for building and sharing web apps.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Hashnode",
+    "description": "A blogging platform for developers.",
+    "categories": ["📝 Content", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Dev.to",
+    "description": "A community for developers to share articles and insights.",
+    "categories": ["📝 Content", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Ghostwriter AI",
+    "description": "An AI-powered writing assistant for bloggers and developers.",
+    "categories": ["📝 Content", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Framer",
+    "description": "A modern tool for designing interactive prototypes.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Affinity Designer",
+    "description": "A professional graphic design software.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "CorelDRAW",
+    "description": "A vector graphics editor for professional designs.",
+    "categories": ["🎨 Design", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Cinema 4D",
+    "description": "A 3D modeling, animation, and rendering software.",
+    "categories": ["🎥 Animation", "🤖 Tech", "🎨 Design"]
+  },
+  {
+    "name": "Houdini",
+    "description": "A high-end 3D animation and VFX software.",
+    "categories": ["🎥 Animation", "🤖 Tech", "🎨 Design"]
+  },
+  {
+    "name": "DaVinci Resolve",
+    "description": "A professional video editing and color grading tool.",
+    "categories": ["🎥 Video", "🤖 Tech", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Final Cut Pro",
+    "description": "A high-performance video editing software for professionals.",
+    "categories": ["🎥 Video", "🤖 Tech", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Ableton Live",
+    "description": "A powerful music production software.",
+    "categories": ["🎵 Music", "🤖 Tech", "🏠 Lifestyle"]
+  },
+  {
+    "name": "FL Studio",
+    "description": "A complete software music production environment.",
+    "categories": ["🎵 Music", "🤖 Tech", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Logic Pro",
+    "description": "A professional music production software for Mac users.",
+    "categories": ["🎵 Music", "🤖 Tech", "🏠 Lifestyle"]
+  },
+  {
+    "name": "Codecademy",
+    "description": "Learn coding interactively online.",
+    "categories": ["📚 Education", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "edX",
+    "description": "Access university-level courses online.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "Skillshare",
+    "description": "Learn creative and professional skills online.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "MasterClass",
+    "description": "Learn from world-class experts in various fields.",
+    "categories": ["📚 Education", "🏠 Lifestyle", "🌐 Web"]
+  },
+  {
+    "name": "HackerRank",
+    "description": "Improve your coding skills and compete with developers worldwide.",
+    "categories": ["📚 Education", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "LeetCode",
+    "description": "Sharpen your coding and algorithm skills.",
+    "categories": ["📚 Education", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "CodinGame",
+    "description": "Practice programming through interactive challenges and games.",
+    "categories": ["📚 Education", "🤖 Tech", "🎮 Gaming"]
+  },
+  {
+    "name": "Runway ML",
+    "description": "Create AI-powered art and videos.",
+    "categories": ["🎨 Design", "🤖 Tech", "🎥 Animation"]
+  },
+  {
+    "name": "DeepL",
+    "description": "An AI-powered translation service.",
+    "categories": ["🌐 Web", "🤖 Tech", "💬 Communication"]
+  },
+  {
+    "name": "LibreOffice",
+    "description": "A free and open-source office suite.",
+    "categories": ["📝 Productivity", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Bitbucket Pipelines",
+    "description": "A CI/CD tool integrated into Bitbucket repositories.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Buddy",
+    "description": "A DevOps automation tool for CI/CD workflows.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Terraform",
+    "description": "An infrastructure as code tool for managing cloud services.",
+    "categories": ["💻 Development", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "Ansible",
+    "description": "An IT automation tool for configuration management.",
+    "categories": ["💻 Development", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Prometheus",
+    "description": "An open-source monitoring and alerting toolkit.",
+    "categories": ["💻 Development", "🤖 Tech", "📊 Analytics"]
+  },
+  {
+    "name": "Grafana",
+    "description": "A visualization tool for monitoring and analytics.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "New Relic",
+    "description": "A cloud-based observability and performance monitoring platform.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "DataDog",
+    "description": "A monitoring service for cloud-scale applications.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "ElasticSearch",
+    "description": "A distributed search and analytics engine.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Logstash",
+    "description": "A server-side data processing pipeline for logs.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Kibana",
+    "description": "A visualization tool for data from Elasticsearch.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Tableau",
+    "description": "A leading data visualization and business intelligence tool.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Looker",
+    "description": "A business intelligence and data analytics platform.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Snowflake",
+    "description": "A cloud-based data warehousing service.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "BigQuery",
+    "description": "A data analytics warehouse by Google Cloud.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "Bitbucket Pipelines",
+    "description": "A CI/CD tool integrated into Bitbucket repositories.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Buddy",
+    "description": "A DevOps automation tool for CI/CD workflows.",
+    "categories": ["💻 Development", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Terraform",
+    "description": "An infrastructure as code tool for managing cloud services.",
+    "categories": ["💻 Development", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "Ansible",
+    "description": "An IT automation tool for configuration management.",
+    "categories": ["💻 Development", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Prometheus",
+    "description": "An open-source monitoring and alerting toolkit.",
+    "categories": ["💻 Development", "🤖 Tech", "📊 Analytics"]
+  },
+  {
+    "name": "Grafana",
+    "description": "A visualization tool for monitoring and analytics.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "New Relic",
+    "description": "A cloud-based observability and performance monitoring platform.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "DataDog",
+    "description": "A monitoring service for cloud-scale applications.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "ElasticSearch",
+    "description": "A distributed search and analytics engine.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🌐 Web"]
+  },
+  {
+    "name": "Logstash",
+    "description": "A server-side data processing pipeline for logs.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Kibana",
+    "description": "A visualization tool for data from Elasticsearch.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Tableau",
+    "description": "A leading data visualization and business intelligence tool.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Looker",
+    "description": "A business intelligence and data analytics platform.",
+    "categories": ["📊 Analytics", "🤖 Tech", "🏢 Org"]
+  },
+  {
+    "name": "Snowflake",
+    "description": "A cloud-based data warehousing service.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "BigQuery",
+    "description": "A data analytics warehouse by Google Cloud.",
+    "categories": ["📊 Analytics", "🤖 Tech", "☁️ Cloud"]
+  },
+  {
+    "name": "Google AI",
+    "description": "A research division of Google focused on artificial intelligence advancements.",
+    "categories": ["🤖 AI", "📊 Research", "🧠 Machine Learning"]
+  },
+  {
+    "name": "Meta AI",
+    "description": "AI research and development from Meta (formerly Facebook).",
+    "categories": ["🤖 AI", "📊 Research", "🧠 Deep Learning"]
+  },
+  {
+    "name": "DeepMind",
+    "description": "A world leader in AI research and development, part of Google.",
+    "categories": ["🤖 AI", "📊 Research", "🧠 Deep Learning"]
+  },
+  {
+    "name": "OpenAI",
+    "description": "An AI research lab dedicated to creating safe artificial intelligence.",
+    "categories": ["🤖 AI", "📊 Research", "🧠 Machine Learning"]
+  },
+  {
+    "name": "Caffe",
+    "description": "A deep learning framework made with speed and modularity in mind.",
+    "categories": ["🧠 Deep Learning", "🤖 AI", "📊 Analytics"]
+  },
+  {
+    "name": "DL4J",
+    "description": "A deep learning library for Java and Scala.",
+    "categories": ["🧠 Deep Learning", "🤖 AI", "📊 Analytics"]
+  },
+  {
+    "name": "Torch",
+    "description": "An open-source machine learning library used before PyTorch.",
+    "categories": ["🧠 Deep Learning", "🤖 AI", "📊 Analytics"]
+  },
+  {
+    "name": "Theano",
+    "description": "A Python library for fast numerical computation using GPUs.",
+    "categories": ["⚡ GPU Acceleration", "🧠 Machine Learning", "🤖 AI"]
+  },
+  {
+    "name": "BigML",
+    "description": "A machine learning platform for predictive analytics.",
+    "categories": ["🧠 Machine Learning", "🤖 AI", "📊 Analytics"]
+  },
+  {
+    "name": "Weka",
+    "description": "A machine learning suite for data mining and analysis.",
+    "categories": ["🧠 Machine Learning", "🤖 AI", "📊 Analytics"]
+  },
+  {
+    "name": "RapidMiner",
+    "description": "A data science platform for predictive analytics.",
+    "categories": ["📊 Big Data", "🧠 Machine Learning", "🤖 AI"]
+  },
+  {
+    "name": "Orange3",
+    "description": "An open-source data visualization and machine learning tool.",
+    "categories": ["📊 Big Data", "🧠 Machine Learning", "🤖 AI"]
+  },
+  {
+    "name": "NeuralProphet",
+    "description": "A forecasting tool built on PyTorch.",
+    "categories": ["📊 Time Series", "🧠 Machine Learning", "🤖 AI"]
+  },
+  {
+    "name": "Prophet",
+    "description": "A forecasting model by Facebook for time series analysis.",
+    "categories": ["📊 Time Series", "🧠 Machine Learning", "🤖 AI"]
+  },
+  {
+    "name": "IBM Watson",
+    "description": "AI and machine learning services by IBM.",
+    "categories": ["🤖 AI", "📊 Analytics", "🧠 Machine Learning"]
+  },
+  {
+    "name": "Amazon SageMaker",
+    "description": "A machine learning service that helps developers build models.",
+    "categories": ["🤖 AI", "☁️ Cloud", "🧠 Machine Learning"]
+  },
+  {
+    "name": "Microsoft Azure ML",
+    "description": "Machine learning tools from Microsoft Azure.",
+    "categories": ["🤖 AI", "☁️ Cloud", "🧠 Machine Learning"]
+  },
+  {
+    "name": "Google AutoML",
+    "description": "A suite of machine learning tools for automation.",
+    "categories": ["🤖 AI", "☁️ Cloud", "🧠 Machine Learning"]
+  },
+  {
+    "name": "DataRobot",
+    "description": "An automated machine learning platform.",
+    "categories": ["🤖 AI", "🧠 Machine Learning", "📊 Analytics"]
+  },
+  {
+    "name": "AI21 Labs",
+    "description": "A research lab focused on AI and language models.",
+    "categories": ["🤖 AI", "📊 Research", "🧠 NLP"]
+  },
+  {
+    "name": "Cohere AI",
+    "description": "A startup specializing in AI-powered NLP tools.",
+    "categories": ["🤖 AI", "📊 Research", "🧠 NLP"]
+  },
+  {
+    "name": "Anthropic",
+    "description": "An AI research company focusing on interpretability and alignment.",
+    "categories": ["🤖 AI", "📊 Research", "🧠 Machine Learning"]
+  },
+  {
+    "name": "Stability AI",
+    "description": "The creators of Stable Diffusion, an AI image generation model.",
+    "categories": ["🖼️ AI Art", "🤖 AI", "🧠 Deep Learning"]
+  },
+  {
+    "name": "Heroku",
+    "description": "A cloud platform for deploying and managing applications.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Vercel",
+    "description": "A cloud platform for frontend and serverless deployment.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🌐 Web"]
+  },
+  {
+    "name": "Netlify",
+    "description": "An intuitive platform for deploying static and serverless applications.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🌐 Web"]
+  },
+  {
+    "name": "AWS Lambda",
+    "description": "A serverless computing service by Amazon Web Services.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🤖 AI"]
+  },
+  {
+    "name": "Google Cloud Run",
+    "description": "A managed platform for deploying scalable containerized applications.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Azure Functions",
+    "description": "A serverless computing platform from Microsoft Azure.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Railway",
+    "description": "A modern cloud platform for deploying full-stack applications.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Fly.io",
+    "description": "A platform to run full-stack apps globally on edge servers.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🌐 Web"]
+  },
+  {
+    "name": "Cloudflare Pages",
+    "description": "A Jamstack deployment platform by Cloudflare.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🌐 Web"]
+  },
+  {
+    "name": "Render",
+    "description": "A unified cloud platform for deploying web apps and services.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "DigitalOcean App Platform",
+    "description": "A platform for deploying containerized applications.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "GitHub Actions",
+    "description": "A CI/CD automation tool for deploying applications.",
+    "categories": ["🚀 Deployment", "💻 Development", "🤖 Automation"]
+  },
+  {
+    "name": "Travis CI",
+    "description": "A continuous integration tool for deploying applications.",
+    "categories": ["🚀 Deployment", "💻 Development", "🤖 Automation"]
+  },
+  {
+    "name": "CircleCI",
+    "description": "A CI/CD service for automating application deployment.",
+    "categories": ["🚀 Deployment", "💻 Development", "🤖 Automation"]
+  },
+  {
+    "name": "Jenkins",
+    "description": "An open-source automation server for CI/CD pipelines.",
+    "categories": ["🚀 Deployment", "💻 Development", "🤖 Automation"]
+  },
+  {
+    "name": "Kubernetes",
+    "description": "An open-source system for automating deployment, scaling, and management of containerized applications.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Docker Swarm",
+    "description": "A native clustering system for Docker container orchestration.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "OpenShift",
+    "description": "A Kubernetes-based platform for enterprise application deployment.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🏢 Enterprise"]
+  },
+  {
+    "name": "IBM Cloud Foundry",
+    "description": "A cloud-native application deployment platform from IBM.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🏢 Enterprise"]
+  },
+  {
+    "name": "Cloud Foundry",
+    "description": "An open-source multi-cloud application platform as a service.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🏢 Enterprise"]
+  },
+  {
+    "name": "Google Kubernetes Engine (GKE)",
+    "description": "A managed Kubernetes service by Google Cloud.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Amazon ECS",
+    "description": "A container orchestration service by AWS.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🐳 Containers"]
+  },
+  {
+    "name": "Amazon EKS",
+    "description": "A managed Kubernetes service by AWS.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🐳 Containers"]
+  },
+  {
+    "name": "Azure Kubernetes Service (AKS)",
+    "description": "A managed Kubernetes service from Microsoft Azure.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🐳 Containers"]
+  },
+  {
+    "name": "Cloudflare Workers",
+    "description": "A serverless platform for deploying applications at the edge.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💻 Development"]
+  },
+  {
+    "name": "Lambda@Edge",
+    "description": "A serverless computing service running on AWS edge locations.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🌍 Edge Computing"]
+  },
+  {
+    "name": "Fastly Compute@Edge",
+    "description": "A serverless edge computing platform.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "🌍 Edge Computing"]
+  },
+  {
+    "name": "Terraform Cloud",
+    "description": "An infrastructure as code service for provisioning cloud resources.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💾 Infrastructure"]
+  },
+  {
+    "name": "Pulumi",
+    "description": "A modern infrastructure as code tool for cloud deployment.",
+    "categories": ["☁️ Cloud", "🚀 Deployment", "💾 Infrastructure"]
+  },
+  {
+    "name": "Bitbucket Pipelines",
+    "description": "A CI/CD service built into Bitbucket for automated deployments.",
+    "categories": ["🚀 Deployment", "💻 Development", "🤖 Automation"]
+  },
+  {
+    "name": "GitLab CI/CD",
+    "description": "A continuous integration and deployment tool built into GitLab.",
+    "categories": ["🚀 Deployment", "💻 Development", "🤖 Automation"]
+  },
+  {
+    "name": "ArgoCD",
+    "description": "A declarative GitOps continuous delivery tool for Kubernetes.",
+    "categories": ["🚀 Deployment", "🐳 Containers", "💻 Development"]
+  },
+  {
+    "name": "Spinnaker",
+    "description": "A multi-cloud continuous delivery platform.",
+    "categories": ["🚀 Deployment", "☁️ Cloud", "💻 Development"]
+  },
+  {
+    "name": "Nomad",
+    "description": "A simple and flexible workload orchestrator by HashiCorp.",
+    "categories": ["🚀 Deployment", "☁️ Cloud", "💾 Infrastructure"]
+  },
+  {
+    "name": "Helm",
+    "description": "A package manager for Kubernetes applications.",
+    "categories": ["🚀 Deployment", "🐳 Containers", "💻 Development"]
+  },
+  {
+    "name": "Rancher",
+    "description": "A complete container management platform for Kubernetes.",
+    "categories": ["🚀 Deployment", "🐳 Containers", "💻 Development"]
+  },
+  {
+    "name": "K3s",
+    "description": "A lightweight Kubernetes distribution for edge computing.",
+    "categories": ["🚀 Deployment", "🐳 Containers", "🌍 Edge Computing"]
+  },
+  {
+    "name": "Caddy",
+    "description": "A modern web server with automatic HTTPS.",
+    "categories": ["🚀 Deployment", "🌐 Web", "🔐 Security"]
+  },
+  {
+    "name": "Traefik",
+    "description": "A cloud-native reverse proxy and load balancer.",
+    "categories": ["🚀 Deployment", "🌐 Web", "🔐 Security"]
+  },
+  {
+    "name": "HAProxy",
+    "description": "A high-performance TCP/HTTP load balancer.",
+    "categories": ["🚀 Deployment", "🌐 Web", "🔐 Security"]
+  },
+  {
+    "name": "Istio",
+    "description": "A service mesh for managing microservices.",
+    "categories": ["🚀 Deployment", "💻 Development", "🔐 Security"]
+  },
+  {
+    "name": "Linkerd",
+    "description": "A lightweight service mesh for Kubernetes.",
+    "categories": ["🚀 Deployment", "🐳 Containers", "💻 Development"]
+  },
+  {
+    "name": "Consul",
+    "description": "A service networking platform for cloud applications.",
+    "categories": ["🚀 Deployment", "☁️ Cloud", "🔐 Security"]
+  },
+  {
+    "name": "Auth0",
+    "description": "A platform for authentication and authorization.",
+    "categories": ["🔑 Auth", "🔐 Security", "🌐 Web"]
+  },
+  {
+    "name": "Firebase Authentication",
+    "description": "Easy-to-use authentication services by Google Firebase.",
+    "categories": ["🔑 Auth", "🔐 Security", "🌐 Web"]
+  },
+  {
+    "name": "OAuth 2.0 Docs",
+    "description": "Official documentation for OAuth 2.0 authentication flow.",
+    "categories": ["🔑 Auth", "📚 Documentation", "🌐 Web"]
+  },
+  {
+    "name": "JWT.io",
+    "description": "Resources and tools for JSON Web Tokens (JWT).",
+    "categories": ["🔑 Auth", "🔐 Security", "🌐 Web"]
+  },
+  {
+    "name": "Clerk",
+    "description": "User authentication and management API for modern applications.",
+    "categories": ["🔑 Auth", "🔐 Security", "🌐 Web"]
+  },
+  {
+    "name": "Magic.link",
+    "description": "Passwordless authentication solution.",
+    "categories": ["🔑 Auth", "🔐 Security", "🌐 Web"]
+  },
+  {
+    "name": "Supabase Auth",
+    "description": "Authentication service by Supabase, an alternative to Firebase.",
+    "categories": ["🔑 Auth", "🔐 Security", "🌐 Web"]
+  },
+  {
+    "name": "Keycloak",
+    "description": "An open-source identity and access management solution.",
+    "categories": ["🔑 Auth", "🔐 Security", "🏢 Enterprise"]
+  },
+  {
+    "name": "Okta",
+    "description": "Identity management and authentication services for enterprises.",
+    "categories": ["🔑 Auth", "🔐 Security", "🏢 Enterprise"]
+  },
+  {
+    "name": "Microsoft Identity Platform",
+    "description": "Authentication solutions for Microsoft services and enterprise apps.",
+    "categories": ["🔑 Auth", "🔐 Security", "🏢 Enterprise"]
+  }
+]
