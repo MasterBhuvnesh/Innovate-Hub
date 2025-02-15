@@ -19,3 +19,6 @@
 🔹 **Flask** – Web Framework  
 🔹 **Bootstrap** – Frontend Styling  
 🔹 **HTML, CSS & JS** – UI & Interactivity
+
+> [!ADDONs]
+> Use Pandas and add openai + tenserflow
