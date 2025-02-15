@@ -20,5 +20,5 @@
 🔹 **Bootstrap** – Frontend Styling  
 🔹 **HTML, CSS & JS** – UI & Interactivity
 
-> [!ADDONs]
-> Use Pandas and add openai + tenserflow
+> [!IMPORTANT]
+> Integrate Pandas for data handling and enhance functionality with OpenAI and TensorFlow
