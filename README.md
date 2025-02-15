@@ -18,4 +18,4 @@
 🔹 **Python** – Backend Logic  
 🔹 **Flask** – Web Framework  
 🔹 **Bootstrap** – Frontend Styling  
-🔹 **HTML, CSS** – UI & Interactivity
+🔹 **HTML, CSS & JS** – UI & Interactivity
